@@ -1,0 +1,76 @@
+1.Repo location
+2.Enlistment set up instruction.
+3.Data base connection string
+4.Technical Architecture
+5.Debugging and troubleshooting guide
+6.Settings
+7.Config files
+8.Code review guidelines.
+9.Coding standard used here etc
+ 
+
+Document list:
+
+Introduction:
+   1.Overview of the project
+   2.Purpose of the document
+   3.Goals and objectives
+   4.Scope and limitations
+   5.Target audience
+Requirements
+   1.Functional requirements: Describes what the software should do from a user's perspective.
+   2.Non-functional requirements: Describes attributes such as performance, reliability, security, and usability.
+Architecture
+   1.High-level architecture: Overview of the system's components and their interactions.
+   2.Detailed architecture: Detailed descriptions of each component, including their responsibilities and interfaces.
+   3.Diagrams (e.g., UML diagrams) to illustrate the architecture.
+Design Decisions
+   1.Justification for architectural choices.
+   2.Explanation of design patterns and methodologies used.
+   3.Trade-offs and alternatives considered.
+Data Model
+   1.Description of the data structures used in the system.
+   2.Entity-relationship diagrams or schema definitions.
+Modules/Components
+   1.Description of individual modules or components.
+   2.Responsibilities of each module/component.
+   3.Interfaces with other modules/components.
+   4.Dependencies.
+User Interface Design (if applicable)
+   1.Description of the user interface.
+   2.Wireframes, mockups, or screenshots.
+Technologies Used
+   1.Programming languages.
+   2.Frameworks and libraries.
+   3.Databases.
+   4.Tools and platforms.
+Development Environment
+Setup instructions for developers.
+IDEs and development tools.
+Version control system and branching strategy.
+Testing Strategy
+Types of testing (e.g., unit testing, integration testing, system testing).
+Test scenarios and cases.
+Tools used for testing.
+Deployment
+Deployment architecture.
+Configuration management.
+Deployment process and scripts.
+Monitoring and Logging
+Metrics to monitor.
+Logging strategies.
+Alerting mechanisms.
+Security
+Authentication and authorization mechanisms.
+Data encryption.
+Security best practices.
+Maintenance and Support
+Procedures for bug tracking and fixing.
+Versioning and release management.
+Support channels.
+Glossary
+Definitions of technical terms and acronyms used in the document.
+References
+Any external references or sources consulted during the design process.
+Appendices
+Additional information such as API documentation, sample code snippets, or supplementary diagrams.
